@@ -1,6 +1,9 @@
 <p align="center">
-  <img alt="createUser" src=".github/createUser.PNG" width="49%">
-  <img alt="users" src=".github/users.PNG" width="49%">
+  <img alt="createUser" src=".github/createUser.PNG" width="99%">
+</p>
+
+<p align="center">
+  <img alt="users" src=".github/users.PNG" width="99%">
 </p>
 
 <p align="center">
